@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pritideveloper
 - 👀 I’m interested in javascript
 - 🌱 I’m currently working @mcvalgroup and learning 
-- 💞️ I’m looking to collaborate on projects 
+- 💞️ Collaboration is in my DNA
 - 📫 knock me here pritisaha123@gmail.com
 
 <!---
